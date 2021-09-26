@@ -33,5 +33,5 @@ Your browser does not support videos.
 
 If you cannot see slash commands, then you may have disabled the "Use slash commands" option in your user settings.
 
-<img className="docImg" alt="Use settings for slash commands" src="/img/docs/0f99fca0ac9ea66e198d02b9d65b0e35.png" />
+<img className="docImg" alt="User settings for slash commands" src="/img/docs/0f99fca0ac9ea66e198d02b9d65b0e35.png" />
 
