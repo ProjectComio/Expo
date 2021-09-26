@@ -17,6 +17,10 @@ Although we recommend granting the **Administrator** permission to the bot, it'l
   - `Modify nicknames`
   - `Manage webhooks`
 
+In addition to the permissions listed above, the channel permissions must also include the "`Use slash commands`" permission for the role/member that you shall allow to use slash commands as shown below.
+
+<img className="imgAuto smImg" alt="Channel settings for slash commands" src="/img/docs/cef634be9994ad04cf3d5fc3ff9b2be4.png" />
+
 We also recommend you to drag the bot's role as visually high as possible (probably below the human server administrators) as shown below, so that it can freeze and ban members if anything goes wrong.
 
 <video className="videoPartial" autoPlay loop playsInline muted poster="/expo/img/docs/posters/e312352dc42114dda64a9ed3c006bb44_poster.jpg">
@@ -26,3 +30,8 @@ Your browser does not support videos.
 
 ## Member permissions
 **Comio** will warn the member who called the command is he/she is missing the required permissions (can be disabled via dashboard), but you can also specify allowed roles and channels for each command.
+
+If you cannot see slash commands, then you may have disabled the "Use slash commands" options in your user settings.
+
+<img className="docImg" alt="Use settings for slash commands" src="/img/docs/0f99fca0ac9ea66e198d02b9d65b0e35.png" />
+
