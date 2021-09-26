@@ -11,3 +11,6 @@ Something missing? You can always help us improve our docs and services (and fix
 ### Help us translate this website!
 
 We're translating this website, you can help us by forking this repository and translating it (with the help of translation tools), and finally submitting a pull request when done!
+
+## Credits
+This [documentation & blog](https://expo.comio.cf/) website is powered by [Docusaurus v2](https://docusaurus.io/).
