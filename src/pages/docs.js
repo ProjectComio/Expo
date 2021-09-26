@@ -1,15 +1,13 @@
 const React = require("react");
 const Redirect = require("@docusaurus/router");
-
-const siteConfig = require(process.cwd() + "/siteConfig.js");
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 function docUrl(doc, language) {
   return (
-    siteConfig.baseUrl +
+    useBaseUrl +
     "docs/" +
     (language ? language + "/" : "") +
-    doc +
-    ".html"
+    doc
   );
 }
 
