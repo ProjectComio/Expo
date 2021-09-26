@@ -1,0 +1,112 @@
+@import url("https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@5/css/all.min.css");
+
+:root {
+  --ifm-color-primary: #5865f2;
+  --ifm-color-primary-dark: #3949f0;
+  --ifm-color-primary-darker: #2a3bee;
+  --ifm-color-primary-darkest: #1121d6;
+  --ifm-color-primary-light: #7781f4;
+  --ifm-color-primary-lighter: #868ff6;
+  --ifm-color-primary-lightest: #b4baf9;
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.star {
+  color: #ffbb48;
+}
+
+.docImg{
+  box-sizing: border-box;
+  width:100%;
+  filter: drop-shadow(0px 0px 2px #5865F2);
+  border-radius:15px;
+  margin:1rem auto 1rem auto;
+}
+
+.imgAuto{
+  max-width:420px !important;
+  width: 30%;
+  border:1px solid #5865F2;
+  border-radius:10px;
+  filter: none;
+}
+.smImg{
+  width: 50%;
+}
+.fakeMsg{
+  margin:10px auto 10px auto !important;
+  width:50% !important;
+  filter:drop-shadow(0px 0px 1px rgb(0, 0, 0));
+}
+.videoPartial {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    border:1px solid #5865F2;
+}
+.vector{
+  border: none !important;
+  filter: none !important;
+  width: 60%;
+  margin-left: 1.8rem;
+}
+@media screen and (max-width:450px){
+  .imgAuto,.fakeMsg{width:100% !important;}
+  .vector{margin: 0px !important;width: 100%;}
+  img{border-radius: 7px;}
+  .videoPartial{width: 100%;}
+} 
+
+.mdBack {
+  background-color:rgb(40, 42, 54);
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  border:1px solid #5865F2;
+}
+
+.mention {
+  background-color: hsla(235,85.6%,64.7%,0.4);
+  color: hsl(236,83.3%,92.9%);
+  border-radius: 5px;
+  padding: 0 2px;
+}
+
+.spoiler{
+  background-color: #202225;
+  cursor:pointer;
+  transition: all .1s ease;
+  border-radius: 3px;
+}
+.spoiler>span{
+  font-size: .95em;
+  margin-top: -2px;
+  opacity: 0;
+  transition: all .1s ease;
+}
+.spoiler:hover {
+  background-color: hsla(0,0%,100%,.1);
+}
+.spoiler:hover > span {
+  opacity: 1;
+}
+.fas,.fad,.far,.fab{
+  vertical-align: middle;
+}
+.fa-times{
+  color: red;
+}
+.fa-check{
+  color:#5874f2;
+}
