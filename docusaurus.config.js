@@ -132,16 +132,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           hashed: true,
           highlightSearchTermsOnTargetPage:true
         },
-      ], 
-      [
-        '@docusaurus/plugin-client-redirects',
-        {
-          createRedirects: function (existingPath) {
-            if (existingPath === '/docs/intro') {
-              return ['/docs','/docs/','/documentation','/documentation/']; 
-            }
-          },
-        },
       ],
     ],
 });
