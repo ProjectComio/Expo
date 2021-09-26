@@ -4,6 +4,16 @@ sidebar_position: 9
 
 # FAQ
 
+### I cannot see slash commands or the context menu
+You must enable the "Use slash commands" option in your user settings as shown below:
+
+<img className="docImg" alt="Use settings for slash commands" src="/img/docs/0f99fca0ac9ea66e198d02b9d65b0e35.png" />
+
+Still can't see 'em? Make sure that the channel where you're trying to use the slash command has the "Allow members to use application commands" permission as shown below:
+<img className="imgAuto smImg" alt="Channel settings for slash commands" src="/img/docs/cef634be9994ad04cf3d5fc3ff9b2be4.png" />
+
+If you still cannot see slash commands or context menu, then you must be using an outdated Discord client. Please [update your Discord client](https://discord.com/download) to the latest version or atleast the version which supports application commands.
+
 ### The bot is not responding
 Make sure the bot has all the necessary permissions and is online, if the bot is still unresponsive, it's possible that Discord might be having connectivity issue. You can check Discord's status [here](https://discordstatus.com).
 
