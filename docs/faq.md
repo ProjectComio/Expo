@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # FAQ
 
-### I cannot see slash commands or the context menu
+### I cannot see slash commands or the context menus
 You must enable the "Use slash commands" option in your user settings as shown below:
 
 <img className="docImg" alt="User settings for slash commands" src="/img/docs/0f99fca0ac9ea66e198d02b9d65b0e35.png" />
