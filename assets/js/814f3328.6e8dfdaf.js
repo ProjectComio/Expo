@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomio_expo=self.webpackChunkcomio_expo||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v4 - Major release","permalink":"/blog/v4"},{"title":"Legacy v3","permalink":"/blog/v3"}]}')}}]);

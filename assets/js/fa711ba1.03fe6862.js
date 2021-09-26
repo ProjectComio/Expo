@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomio_expo=self.webpackChunkcomio_expo||[]).push([[4297],{507:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/v-4","name":"v4","count":1,"permalink":"/blog/tags/v-4"}')}}]);

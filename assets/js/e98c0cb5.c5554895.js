@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomio_expo=self.webpackChunkcomio_expo||[]).push([[3044],{4079:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/major","name":"major","count":1,"permalink":"/blog/tags/major"}')}}]);
