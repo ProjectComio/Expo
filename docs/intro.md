@@ -38,4 +38,4 @@ Deprecated modules or sensitive/dangerous entities are shown in a box like this.
 Don't hesitate to join the [support server](https://comio/me/support/) if you have any unanswered questions.
 
 ## Contributing
-Something missing? You can always help us improve our docs and services (and fix our horrible typos and grammatical errors). All you have to do is fork our [documention repository](https://github.com/ProjectComio/expo/) and modify it the way you want it to be, and then propose your changes by finally submitting a pull request!
+Something missing? You can always help us improve our docs and services (and fix our horrible typos and grammatical errors). You will see the `Edit this page` anchor at the bottom of every page, all you have to do is fork our [documention repository](https://github.com/ProjectComio/expo/) and modify it the way you want it to be, and then propose your changes by finally submitting a pull request!
