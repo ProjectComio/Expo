@@ -1,5 +1,5 @@
 const React = require("react");
-const Redirect = require("../../core/Redirect.js");
+const Redirect = require("@docusaurus/router");
 
 const siteConfig = require(process.cwd() + "/siteConfig.js");
 
@@ -17,8 +17,8 @@ class Docs extends React.Component {
   render() {
     return (
       <Redirect
-        redirect={docUrl("intro", this.props.language)}
-        config={siteConfig}
+        to={docUrl("intro", this.props.language)}
+        //config={siteConfig}
       />
     );
   }
