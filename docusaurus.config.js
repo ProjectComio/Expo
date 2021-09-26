@@ -42,6 +42,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       navbar: {
         title: 'Comio',
+        hideOnScroll: true,
         logo: {
           alt: 'Comio Logo',
           src: 'img/logo.svg',
