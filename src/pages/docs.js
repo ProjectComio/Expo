@@ -17,7 +17,7 @@ class Docs extends React.Component {
   render() {
     return (
       <Redirect
-        redirect={docUrl("your-entry-doc", this.props.language)}
+        redirect={docUrl("intro", this.props.language)}
         config={siteConfig}
       />
     );
