@@ -133,5 +133,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           highlightSearchTermsOnTargetPage:true
         },
       ], 
+      [
+        '@docusaurus/plugin-client-redirects',
+        {
+          redirects: [
+            {
+              to: '/docs/intro', 
+              from: ['/docs','/docs/','/documentation','/documentation/'], 
+            },
+          ],
+        },
+      ],
     ],
 });
