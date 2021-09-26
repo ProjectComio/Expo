@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Comio Expo Blog</title>
+        <link>https://expo.comio.cf/blog</link>
+        <description>Comio Expo Blog</description>
+        <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[v4 - Major release]]></title>
+            <link>https://expo.comio.cf/blog/v4</link>
+            <guid>v4</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The v4 major release.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Legacy v3]]></title>
+            <link>https://expo.comio.cf/blog/v3</link>
+            <guid>v3</guid>
+            <pubDate>Sat, 25 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The legacy v3 series of Comio is now discontinued.]]></description>
+        </item>
+    </channel>
+</rss>
