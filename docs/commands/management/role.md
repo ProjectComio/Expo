@@ -14,6 +14,12 @@ Manipulates a role
 ### Info
 Provides details about a role.
 
+### Add
+Adds a role to a member.
+
+### Remove
+Removes a role from a member.
+
 ### All
 Adds/removes a role to/from all the members in the server (including bots).
 
