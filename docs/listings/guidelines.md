@@ -13,7 +13,7 @@ Your server must strictly abide by these additional guidelines, in accordance wi
 
 ## User guidelines
 - You should not use any scripts, macros or self-bots to bump any server, this will result in a permanent blacklist from our services.
-- Servers have a bump cooldown of `2 hours` and users have a bump cooldown of `1 hour`, in other words, a server can only be bumped every 2 hours and a user can only bump a server once a hour (global).
+- Servers have a bump cooldown of `2 hours` and users have a bump cooldown of `1 hour`, in other words, a server can only be bumped once every 2 hours and a user can only bump a server once an hour (globally).
 
 :::info Note
 When a visitor tries to join your server via your listing's page, they'll have to solve a Captcha (powered by [hCaptcha](https://www.hcaptcha.com/)) in order to proceed. This feature was implemented to protect servers from unexpected raid or mass-joins..
