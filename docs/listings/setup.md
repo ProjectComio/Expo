@@ -83,7 +83,7 @@ Choosing a channel that is visible to the <span className="mention">@everyone</s
 - You can assign upto 5 custom tags to your server.
 - A static banner, which will be displayed on the public listings page and as a background on your server's listing page.
 
-> <i className="fas fa-star star"></i> Premium servers can upload a custom **animated** server banner.
+> <i className="fas fa-star star"></i> Premium servers can upload a custom animated server banner.
 
 :::info Note
 We recommend a banner image that is atleast `640` pixels wide and `360` pixels tall in order to display properly among all kinds of devices.
