@@ -23,7 +23,7 @@ In addition to the permissions listed above, the channel permissions must also i
 
 We also recommend you to drag the bot's role as visually high as possible (probably below the human server administrators) as shown below, so that it can freeze and ban members if anything goes wrong.
 
-<video className="videoPartial" autoPlay loop playsInline muted poster="/expo/img/docs/posters/e312352dc42114dda64a9ed3c006bb44_poster.jpg">
+<video className="videoPartial" autoPlay loop playsInline muted poster="/img/docs/posters/e312352dc42114dda64a9ed3c006bb44_poster.jpg">
   <source src="https://cdn.discordapp.com/attachments/864813125320441858/889583045030588488/e312352dc42114dda64a9ed3c006bb44.mp4" type="video/mp4" />
 Your browser does not support videos.
 </video>
