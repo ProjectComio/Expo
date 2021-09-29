@@ -18,6 +18,4 @@ If you plan to change the frame delay, there's no way to revert the changes back
 
 <img alt="Image settings panel" className="docImg" src="/img/docs/c20157c398b6f9e2b2f0cbba4ddbde85.png" />
 
-> <i className="fas fa-star star"></i> Only premium servers support animated greetings.
-
 The **Load fonts** buttons loads the fonts in your browser (overlayed on your image if enabled), the default font is displayed on the image to save your bandwidth (as there are more than 35 fonts, and we may add more in the future). If we were to enable font loading at the startup, the page would require additional time to load depending on your connection speed. Once you hit the load fonts button, all the fonts are loaded in your browser. Fonts will always be rendered properly in the greeting image, the button is just here to save your connection bandwidth.
