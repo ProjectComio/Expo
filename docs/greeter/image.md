@@ -22,7 +22,7 @@ Static images render almost instantly (with a rare delay of a few seconds depend
 Greetings that take more than 30 seconds to render will be terminated automatically to reduce the workload on the cluster, so make sure that you use a not-too-heavy image.
 :::
 
-> <i className="fas fa-star star"></i> Only premium servers support animated greetings.
+> <i className="fas fa-star star"></i> Premium servers get shorter greeting render times due to their dedicated resources.
 
 The image must be atleast `640` pixels wide and `360` pixels tall in order to display properly among all kinds of devices. 
 
