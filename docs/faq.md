@@ -19,7 +19,7 @@ If you still cannot see slash commands or context menus, then you must be using 
 Make sure the bot has all the necessary permissions and is online, if the bot is still unresponsive, it's possible that Discord might be having connectivity issue. You can check Discord's status [here](https://discordstatus.com).
 
 ### The bot is offline in my server, but online in other servers
-The bot is spread out to different shards having their own collection of servers. The shard your server is on may have died or disconnected, you can wait for it to reconnect or report the issue at the support server. You can also check the our service status at [this page](https://status.comio.cf/).
+The bot is spread out to different shards having their own collection of servers. The shard your server is on may have died or disconnected, you can wait for it to reconnect or report the issue at the support server. You can also check our service status at [this page](https://status.comio.cf/).
 
 ### The freeze parameter is not working
 Make sure the bot's role is visually higher than the offender to freeze, and the bot has the `MANAGE ROLES` permission.
