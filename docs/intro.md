@@ -8,7 +8,7 @@ sidebar_position: 1
 ## Reading guide
 - All modules are listed on the sidebar (extreme left).
 - Each module has its own submodules with detailed information.
-- A quick search feature is implemented in the top-left corner.
+- A quick search feature is implemented in the top-right corner.
 
 > <i className="fas fa-star star"></i> Premium modules & features will start with a star icon like this.
 
