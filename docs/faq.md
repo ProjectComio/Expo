@@ -41,7 +41,7 @@ A message's ID can be copied by right-clicking the message as shown below:
 <img className="imgAuto" src="/img/docs/b90f2a45168be0be9f195e0625959a62.png" />
 
 :::caution
-[Developer mode](/docs/faq#how-do-i-enable-the-developer-mode) must be enabled to copy a message's ID
+[Developer mode](/docs/faq#how-do-i-enable-the-developer-mode) must be enabled to copy a message's ID.
 :::
 
 ### Does Comio feature something like auto-setup?
