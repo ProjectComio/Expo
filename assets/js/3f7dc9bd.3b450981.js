@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcomio_expo=self.webpackChunkcomio_expo||[]).push([[515],{5919:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/deprecated","name":"deprecated","count":1,"permalink":"/blog/tags/deprecated"}')}}]);
